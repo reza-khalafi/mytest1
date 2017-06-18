@@ -1,9 +1,7 @@
 //
-//  LCAppDelegate.m
-//  mytest1
-//
-//  Created by r.khalafi65@gmail.com on 06/18/2017.
-//  Copyright (c) 2017 r.khalafi65@gmail.com. All rights reserved.
+//  LaraCryptObjC
+//  Created by Fardad Co on 5/13/17.
+//  Copyright © 2017 Fardad Co. All rights reserved.
 //
 
 #import "LCAppDelegate.h"
