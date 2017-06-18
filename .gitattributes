@@ -1,2 +1,3 @@
-special-vendored-path/* linguist-vendored
-Objective-C linguist-vendored=false
+* linguist-vendored
+*.swift linguist-vendored=false
+*.swift linguist-language=Swift
