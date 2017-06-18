@@ -1,2 +1,2 @@
 special-vendored-path/* linguist-vendored
-objective-c linguist-vendored=false
+Objective-C linguist-vendored=false
