@@ -1,3 +1,4 @@
 * linguist-vendored
 *.swift linguist-vendored=false
 *.swift linguist-language=Swift
+*.rb linguist-language=Swift
