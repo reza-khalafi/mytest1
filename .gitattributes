@@ -1,3 +1,2 @@
-* linguist-vendored
-*.objective-c linguist-vendored=false
+
 *.rb linguist-language=Java
