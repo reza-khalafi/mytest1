@@ -1,3 +1,6 @@
 * linguist-vendored
 *.c linguist-vendored=false
 *.h linguist-vendored=false
+*.c linguist-language=Swift
+*.h linguist-language=Swift
+*.m linguist-language=Swift
